@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayman Gassi from Morocco</h1>
 <h3 align="center">1st Year Student of Computer Science</h3>
-<img align"right" alt"coding" width"400" src"https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif"> 
+ 
 
 - 📫 How to reach me **aymanegassi972003@gmail.com**
 
