@@ -12,7 +12,7 @@
 - 🎓 I’m currently learning JavaScript   
   
 
-<br/>  
+
 
 
 ## My Skill Set  
