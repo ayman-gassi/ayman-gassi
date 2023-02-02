@@ -9,7 +9,7 @@
 - 🔭 I’m currently a second Year Student of Computer Science  
   
 
-- 🎓 I’m currently learning JavaScript   
+- 🎓 I’m currently learning React   
   
 
 
