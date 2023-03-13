@@ -1,3 +1,11 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">🙋I'm Ayman , From Morocco  🇲🇦</div>  
+
+
 # 💫 About Me:
 🔭 I’m currently a second Year Student of Computer Science<br><br>🎓 I’m currently learning React Js
 
