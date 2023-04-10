@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently a second Year Student of Computer Science<br><br>🎓 I’m currently learning Laravel
+🔭 I’m currently a second Year Student of Computer Science<br><br>🎓 I’m currently learning REACT JS
 
 
 ## 🌐 Socials:
