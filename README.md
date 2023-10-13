@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayman</h1>
 <h3 align="center">🔭 I’m currently a third year student of Computer Science </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayman-gassi&label=Profile%20views&color=0e75b6&style=flat" alt="ayman-gassi" /> </p>
+
 
 
 
@@ -46,10 +46,7 @@
 </p>
 <div align="center">
 <a href="https://github.com/ayman-gassi">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayman-gassi&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayman-gassi&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayman-gassi&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayman-gassi&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayman-gassi&theme=default" height="180em" />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayman-gassi&label=Profile%20views&color=0e75b6&style=flat" alt="ayman-gassi" /> </p>
 </div>
 
