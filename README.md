@@ -7,7 +7,7 @@
 - 🎓 I’m currently learning **NodeJs**
 
 - 📫 How to reach me **aymanegassi972003@gmail.com**
-- 📄 Know about my experiences **http://aymangassi.wuaze.com/?i=1**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
