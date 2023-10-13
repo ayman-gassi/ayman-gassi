@@ -5,9 +5,6 @@
 
 ### <div align="center"> I’m Ayman ,   third year student of Computer Science
 </div>  
-  
-
-- 
 🎓 I’m currently learning NodeJs  
   
 
@@ -108,5 +105,4 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
