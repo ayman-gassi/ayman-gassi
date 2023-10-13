@@ -2,7 +2,7 @@
 <h3 align="center">🔭 I’m currently a third year student of Computer Science </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayman-gassi&label=Profile%20views&color=0e75b6&style=flat" alt="ayman-gassi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayman-gassi&theme=" alt="ayman-gassi" /></a> </p>
+
 
 - 🎓 I’m currently learning **NodeJs**
 
@@ -44,5 +44,12 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-
+<div align="center">
+<a href="https://github.com/ayman-gassi">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayman-gassi&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayman-gassi&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayman-gassi&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayman-gassi&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayman-gassi&theme=default" height="180em" />
+</div>
 
