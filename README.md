@@ -4,7 +4,7 @@
 
 
 
-- 🎓 I’m currently learning **NodeJs**
+<!-- - 🎓 I’m currently learning **NodeJs** -->
 
 - 📫 How to reach me **aymanegassi972003@gmail.com**
 
