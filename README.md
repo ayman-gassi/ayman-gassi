@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayman</h1>
-🔭 I’m currently a third year student of Computer Science<br>🌱 I’m currently learning SpringBoot<br>
+🔭 I’m currently a third year student of Computer Science<br>🌱 I’m currently learning JEE <br>
 
 
 ## My Skill Set  
