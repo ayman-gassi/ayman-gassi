@@ -8,7 +8,7 @@ As a passionate full-stack web developer, I am deeply committed to advancing my 
 
 * 🌍  I'm based in Morocco - Casablanca
 * ✉️  You can contact me at [aymanegassi972003@gmail.com](mailto:aymanegassi972003@gmail.com)
-* 🚀  I'm currently working on [E-commerce Platform](http:// )
+* 🚀  I'm currently learning <br>Spring Boot</br>
 * ⚡  Building a great web application is not just about writing code; it's about crafting a seamless user experience that transforms ideas into reality.
 
 ### Skills
