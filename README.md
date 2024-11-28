@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayman
 =============================================================================================================================
 
-Full Stack Web Developer
+💻 Full Stack Web Developer
 ------------------------
 
 As a passionate full-stack web developer, I am deeply committed to advancing my skills and continuously evolving in the dynamic world of technology. I find immense satisfaction in creating seamless web solutions that merge functionality with user-centric design.
@@ -11,7 +11,7 @@ As a passionate full-stack web developer, I am deeply committed to advancing my 
 * 🌐 **Portfolio** : [aymangassi.tech](https://www.aymangassi.tech/)  
 * ⚡  Building a great web application is not just about writing code; it's about crafting a seamless user experience that transforms ideas into reality.
 
-### Skills
+## 🛠️ Skills
 
 ### **Front-End Development**
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
