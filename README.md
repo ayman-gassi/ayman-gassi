@@ -24,7 +24,9 @@ As a passionate full-stack web developer, I am deeply committed to advancing my 
   <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Pug.js-%23A86454.svg?style=flat&logo=pug&logoColor=white" alt="Pug.js">
   <img src="https://img.shields.io/badge/Twig-%236C757D.svg?style=flat&logo=twig&logoColor=white" alt="Twig">
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular">
 </div>
+
 
 ### **Back-End Development**
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
@@ -45,14 +47,21 @@ As a passionate full-stack web developer, I am deeply committed to advancing my 
   <img src="https://img.shields.io/badge/Oracle-%23F00000.svg?style=flat&logo=oracle&logoColor=white" alt="Oracle">
 </div>
 
+### **Mobile Development**
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+   <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React Native">
+</div>
+
 ### **DevOps Tools**
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/VMware-%2306073A.svg?style=flat&logo=vmware&logoColor=white" alt="VMware">
   <img src="https://img.shields.io/badge/Proxmox-%23E57000.svg?style=flat&logo=proxmox&logoColor=white" alt="Proxmox">
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white" alt="AWS">
 </div>
+
 
 ### **Desktop Application Development**
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
@@ -73,7 +82,9 @@ As a passionate full-stack web developer, I am deeply committed to advancing my 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <img src="https://img.shields.io/badge/UML-%23F7DF1E.svg?style=flat&logoColor=black" alt="UML">
   <img src="https://img.shields.io/badge/Merise-%23FFA500.svg?style=flat&logoColor=white" alt="Merise">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
 </div>
+
 
 ### Socials
 
